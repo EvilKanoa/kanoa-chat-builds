@@ -1,4 +1,4 @@
-  # Kanoa Chat Desktop
+  # Kanoa Chat
 
   Download the latest release from the [Releases](https://github.com/EvilKanoa/kanoa-chat-desktop/releases) page.
 
